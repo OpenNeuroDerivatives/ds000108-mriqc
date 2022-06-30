@@ -1,1 +1,14 @@
-../../../../.git/annex/objects/Zp/7X/MD5E-s708--82cbf8af56abf6f1d375f024cab4b2d0/MD5E-s708--82cbf8af56abf6f1d375f024cab4b2d0
+Warning: Permanently added 'c137-044' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c137-052' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c137-061' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c137-062' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c137-063' (ED25519) to the list of known hosts.
+WARNING (03/05/22 22:39:45): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4120751.hostlist.r8PqoIQh to get hosts
+starting job on c137-044
+starting job on c137-052
+starting job on c137-061
+starting job on c137-062
+starting job on c137-063
+starting job on c140-112
+starting job on c140-114
